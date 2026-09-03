@@ -5,3 +5,6 @@
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Originais locais em HEIC e vídeo; o site publica apenas as cópias otimizadas
+assets/images/Artur/
