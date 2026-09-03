@@ -1,0 +1,7 @@
+# Metadados de segurança criados pelo Windows ao baixar arquivos
+*:Zone.Identifier
+
+# Arquivos locais de sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
